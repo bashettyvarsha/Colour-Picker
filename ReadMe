@@ -1,0 +1,29 @@
+🎨 Color Picker
+
+This project is a simple interactive Color Picker built using HTML, CSS, and JavaScript.
+
+✨ Features
+
+Four color buttons with predefined Hex codes.
+
+Clicking a button changes the background color of the page.
+
+The selected Hex code is displayed dynamically on the screen.
+
+The button text and displayed Hex code always match the chosen color.
+
+🛠️ Technologies Used
+
+HTML – Structure of the page
+
+CSS / Bootstrap – Styling and layout
+
+JavaScript – Functionality to switch colors
+
+📌 How it Works
+
+Click on any color button.
+
+The background color of the container changes to that color.
+
+The selected Hex code updates in the display.
